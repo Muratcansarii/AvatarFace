@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AvatarARVR</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_scene_viewer">SceneViewerActivity</string>
+    <string name="resizable">Resizable</string>
+    <string name="scene_viewer_settings">Scene Viewer Settings</string>
+    <string name="duck">Duck</string>
+    <string name="robot">Robot (animated)</string>
+    <string name="choose_3d_model">3D model:</string>
+    <string name="choose_mode">Mode:</string>
+    <string name="show_with_scene_viewer">Show with Scene Viewer</string>
+    <string name="display_title">Display title</string>
+    <string name="display_link">Display link</string>
+    <string name="none">none</string>
+    <string name="ar_only">ar_only</string>
+    <string name="ar_preferred">ar_preferred</string>
+</resources>
